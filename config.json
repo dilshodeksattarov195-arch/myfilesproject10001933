@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorerocess",
+        "uuid": 9409844,
+        "checksum": "dxbqyt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
